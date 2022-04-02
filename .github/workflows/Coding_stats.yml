@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     # Runs at 12am IST
-    - cron: '00 09 * * *'
+    - cron: '*/2 * * * *'
   workflow_dispatch:
 jobs:
   update-readme:
