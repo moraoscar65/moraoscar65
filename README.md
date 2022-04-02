@@ -93,7 +93,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraoscar65&layout=compact&theme=dark"/>
 </p>
 
-<h3 align="left">Hours coding in the past month</h3>
+<h3 align="center">Hours coding in the past month</h3>
 <p align="center">
   <img width="50%" src="https://wakatime.com/share/@751be0b6-cebd-4efc-849a-693dfa33cbe4/ba640d2c-f0e4-4ef1-801a-12b8fa210b83.svg"/>
 </p>
