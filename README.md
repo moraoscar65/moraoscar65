@@ -86,13 +86,9 @@
 <h3 align="center">GITHUB STATS</h3>
 <p >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraoscar65&show_icons=true&theme=radical" width="41%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraoscar65&layout=compact&theme=dark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraoscar65&layout=compact&theme=dark"/>
 <p/>
-<p align="center">
-  
-  
-<p/>
-
+<h3>WakaTime!<h3/>
 <p align="center">
   <img width="50%"src="https://wakatime.com/share/@751be0b6-cebd-4efc-849a-693dfa33cbe4/ba640d2c-f0e4-4ef1-801a-12b8fa210b83.svg" styles="width:50%;"/>
 <p/>
