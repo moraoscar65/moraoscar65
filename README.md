@@ -86,9 +86,11 @@
 
 <hr>
 <h3 align="center">GITHUB STATS</h3>
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraoscar65&show_icons=true&theme=radical" width="41%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraoscar65&layout=compact&theme=dark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraoscar65&show_icons=true&theme=radical" width="50%"/>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraoscar65&layout=compact&theme=dark"/>
 </p>
 
 <h3 align="left">Hours coding in the past month</h3>
