@@ -97,6 +97,10 @@
 <p align="center">
   <img width="50%" src="https://wakatime.com/share/@751be0b6-cebd-4efc-849a-693dfa33cbe4/ba640d2c-f0e4-4ef1-801a-12b8fa210b83.svg"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **moraoscar65/moraoscar65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
