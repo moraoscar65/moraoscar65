@@ -85,7 +85,7 @@
 <hr/>
 <h3 align="center">GITHUB STATS</h3>
 <p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraoscar65&show_icons=true&theme=radical"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraoscar65&show_icons=true&theme=radical" width="41%"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraoscar65&layout=compact&theme=dark"/>
 <p/>
 <p align="center">
