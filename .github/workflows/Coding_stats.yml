@@ -16,4 +16,8 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           TIME_RANGE: "last_year"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "True"
           SHOW_SHORT_INFO: "True"
