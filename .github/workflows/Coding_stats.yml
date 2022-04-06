@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 10am UTC
-    - cron: "0 10 * * *"
+    - cron: "0/5 * * * *"
 
 jobs:
   update-readme:
@@ -20,4 +20,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_SHORT_INFO: "True"
+          
