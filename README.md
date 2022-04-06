@@ -101,17 +101,4 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-
-```text
-From: 06 April 2021 - To: 06 April 2022
-
-Total Time: 7 hrs 44 mins
-
-JavaScript   4 hrs 51 mins   ███████████████▓░░░░░░░░░   62.75 %
-CSS          2 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   36.49 %
-XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
-
