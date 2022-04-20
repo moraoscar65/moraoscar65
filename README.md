@@ -101,6 +101,8 @@
 ## Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-460-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-574%20Thousand%20lines%20of%20code-blue)
@@ -174,5 +176,5 @@ Kotlin                   1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/moraoscar65/moraoscar65/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 12:20:34 UTC
+ Last Updated on 20/04/2022 12:24:24 UTC
 <!--END_SECTION:waka-->
