@@ -101,7 +101,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-574%20Thousand%20lines%20of%20code-blue)
 
@@ -174,5 +174,5 @@ Kotlin                   1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/moraoscar65/moraoscar65/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 12:17:11 UTC
+ Last Updated on 25/04/2022 12:20:10 UTC
 <!--END_SECTION:waka-->
