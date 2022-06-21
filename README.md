@@ -148,10 +148,10 @@ Sunday       0 commits      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               1 min               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -172,5 +172,5 @@ Kotlin                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/moraoscar65/moraoscar65/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 12:20:11 UTC
+ Last Updated on 21/06/2022 12:21:12 UTC
 <!--END_SECTION:waka-->
