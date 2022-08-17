@@ -101,7 +101,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,7 +109,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 234 Contributions in the Year 2022
+> 🏆 236 Contributions in the Year 2022
  > 
 > 📦 13.6 kB Used in GitHub's Storage 
  > 
@@ -172,5 +172,5 @@ Kotlin                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/moraoscar65/moraoscar65/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 12:22:19 UTC
+ Last Updated on 17/08/2022 12:22:55 UTC
 <!--END_SECTION:waka-->
